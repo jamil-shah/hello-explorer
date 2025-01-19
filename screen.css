@@ -14,8 +14,8 @@ body {
     margin: 0;
     padding: 20px;
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: left;
+    align-items: left;
     height: 100vh;
     flex-direction: column;
 }
