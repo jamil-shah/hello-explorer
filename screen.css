@@ -6,6 +6,14 @@
     gap: 20px;
 }
 
+img[alt="Earth"] {
+    width: 200px;
+}
+
+img[alt="Moon"] {
+    width: 100px;
+}
+
 body {
     font-family: Ariel, sans-serif;
     background-color: #333;
